@@ -1,0 +1,9 @@
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\bin\Debug\EmploySalaryPrimitiveApp.exe.config
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\bin\Debug\EmploySalaryPrimitiveApp.exe
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\bin\Debug\EmploySalaryPrimitiveApp.pdb
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\obj\Debug\EmploySalaryPrimitiveApp.csprojResolveAssemblyReference.cache
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\obj\Debug\EmploySalaryPrimitiveApp.EmpleySalaryApp.resources
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\obj\Debug\EmploySalaryPrimitiveApp.Properties.Resources.resources
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\obj\Debug\EmploySalaryPrimitiveApp.csproj.GenerateResource.Cache
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\obj\Debug\EmploySalaryPrimitiveApp.exe
+E:\Practics\EmploySalaryPrimitiveApp\EmploySalaryPrimitiveApp\obj\Debug\EmploySalaryPrimitiveApp.pdb
