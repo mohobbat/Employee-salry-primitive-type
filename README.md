@@ -1,0 +1,2 @@
+Employee-salry-primitive-type
+=============================
